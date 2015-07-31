@@ -13,6 +13,7 @@
   "author": "ywatase",
   "license": "ISC",
   "dependencies": {
+    "gulp": "*",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   }
